@@ -1,0 +1,40 @@
+.web-mail-css{
+line-height: 20px; background: rgb(145,37,48);
+background: -moz-linear-gradient(top, rgba(145,37,48,1) 0%, rgba(185,45,57,1) 20%, rgba(145,37,48,1) 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(145,37,48,1)), color-stop(20%,rgba(185,45,57,1)), color-stop(100%,rgba(145,37,48,1)));
+background: -webkit-linear-gradient(top, rgba(145,37,48,1) 0%,rgba(185,45,57,1) 20%,rgba(145,37,48,1) 100%);
+background: -o-linear-gradient(top, rgba(145,37,48,1) 0%,rgba(185,45,57,1) 20%,rgba(145,37,48,1) 100%);
+background: -ms-linear-gradient(top, rgba(145,37,48,1) 0%,rgba(185,45,57,1) 20%,rgba(145,37,48,1) 100%);
+background: linear-gradient(to bottom, rgba(145,37,48,1) 0%,rgba(185,45,57,1) 20%,rgba(145,37,48,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#912530', endColorstr='#912530',GradientType=0 );
+padding:2px; width: auto; font-weight: bold; font-size: 13px; color: white; border: 1px solid #666;
+}
+
+.info-style{
+    font-size: 12px;;
+}
+.logo-img{
+    height: auto;
+    max-width: 100%;
+}
+
+
+@media only screen and (max-width: 1920px){
+    .header-css {
+        margin-top: -2%;
+        margin-bottom: -1%;
+    }
+}
+@media only screen and (max-width: 1366px){
+    .header-css {
+        margin-top: -3.2%;
+        margin-bottom: -1.5%;
+    }
+}
+
+@media only screen and (max-width: 1152px){
+    .header-css {
+        margin-top: -3.2%;
+        margin-bottom: 0.5%;
+    }
+}

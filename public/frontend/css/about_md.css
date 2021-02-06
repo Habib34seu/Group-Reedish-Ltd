@@ -1,0 +1,37 @@
+.about-md-h4-css {
+    margin-left: -1.2%;
+    font-size: 20px;
+    font-weight: 700;
+    color: black;
+}
+.about-md-hr-css{
+    margin-left: -1.2%;
+}
+.about-md-p-dtl-css{
+    margin-left: -1.2%;
+    color: black;
+    font-weight: 100;
+    font-size: 12px;
+}
+.about-md-p-st-css{
+    font-weight: 700;
+}
+.about-md-p-chairman-css{
+    margin-left: -1.2%;
+    color: black;
+    font-weight: 700;
+    font-size: 13px; 
+}
+.about-md-chairman-dtl-css{
+    margin-left: -3.5%;
+    margin-top: -1%;
+}
+.about-md-chair-li-css{
+    color: black;
+    font-weight: 700;
+    font-size: 12px; 
+}
+
+.about-md-chair-li-text-css{font-size: 12px;
+    font-weight: 100 ;}
+    

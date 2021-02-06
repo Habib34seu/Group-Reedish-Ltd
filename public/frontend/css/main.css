@@ -1,0 +1,32 @@
+body{
+	font-family:"Trebuchet MS", "Myriad Pro", Arial, sans-serif; 
+	font-size:14px;
+	background:#fefefe;
+	/* color:#333; */
+	/* text-shadow:1px 1px 1px #fff; */
+	overflow-x:hidden;
+}
+
+.header-css{
+	margin-top: -6.5%;
+	margin-bottom: -3%;
+}
+.h3-center{
+	text-align: center;
+	/* margin-top: -4%; */
+    font-size: 30px;
+	font-weight: bold;	
+	padding-top: .5%;
+}
+.sec-background{
+	height: 50px !important;
+    /* margin-top: -4.697%; */
+	background: linear-gradient(to bottom, rgba(255,213,0,1) 0%,
+						rgba(165,118,0,1) 1%,rgba(255,213,0,1) 11%,
+						rgba(255,213,0,1) 11%,rgba(255,213,0,1) 91%,
+						rgba(165,118,0,1) 100%);
+}
+
+
+/*linear-gradient(to bottom, rgba(255,213,0,1) 0%,rgba(165,118,0,1) 1%,rgba(255,213,0,1) 11%,rgba(255,213,0,1) 
+11%,rgba(255,213,0,1) 91%,rgba(165,118,0,1) 100%);*/
